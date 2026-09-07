@@ -1,0 +1,10 @@
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact App.csproj.AssemblyReference.cache
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact_App.Form1.resources
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact_App.Properties.Resources.resources
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact App.csproj.GenerateResource.cache
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact App.csproj.CoreCompileInputs.cache
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\bin\Debug\Contact App.exe.config
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\bin\Debug\Contact App.exe
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\bin\Debug\Contact App.pdb
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact App.exe
+C:\Semester 2\PPD\Mini Project\Contact App\Contact App\obj\Debug\Contact App.pdb

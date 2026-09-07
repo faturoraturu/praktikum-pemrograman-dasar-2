@@ -1,0 +1,10 @@
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.csproj.AssemblyReference.cache
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\_110_Dasboard_Monitoring_dan_Hardware_Fatkhur.Form1.resources
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\_110_Dasboard_Monitoring_dan_Hardware_Fatkhur.Properties.Resources.resources
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.csproj.GenerateResource.cache
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.csproj.CoreCompileInputs.cache
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\bin\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.exe.config
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\bin\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.exe
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\bin\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.pdb
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.exe
+C:\Semester 2\PPD\Mini Project\110_Dasboard Monitoring dan Hardware_Fatkhur\110_Dasboard Monitoring dan Hardware_Fatkhur\obj\Debug\110_Dasboard Monitoring dan Hardware_Fatkhur.pdb

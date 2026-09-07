@@ -1,0 +1,10 @@
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\bin\Debug\Belajar C#_part1.exe
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\bin\Debug\Belajar C#_part1.exe.config
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar C#_part1.csproj.AssemblyReference.cache
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar_C__part1.Form1.resources
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar_C__part1.Properties.Resources.resources
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar C#_part1.csproj.GenerateResource.cache
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar C#_part1.csproj.CoreCompileInputs.cache
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar C#_part1.exe
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\obj\Debug\Belajar C#_part1.pdb
+C:\Semester 2\PPD\latihan\belajar C#\Belajar C#_part1\Belajar C#_part1\bin\Debug\Belajar C#_part1.pdb

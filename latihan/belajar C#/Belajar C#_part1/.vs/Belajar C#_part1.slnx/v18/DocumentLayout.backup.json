@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Semester 2\\PPD\\latihan\\belajar C#\\Belajar C#_part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF2540D-BCBE-4F2B-BFE1-A7667EB88EEC}|Belajar C#_part1\\Belajar C#_part1.csproj|C:\\Semester 2\\PPD\\latihan\\belajar C#\\Belajar C#_part1\\belajar c#_part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BF2540D-BCBE-4F2B-BFE1-A7667EB88EEC}|Belajar C#_part1\\Belajar C#_part1.csproj|solutionrelative:belajar c#_part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF2540D-BCBE-4F2B-BFE1-A7667EB88EEC}|Belajar C#_part1\\Belajar C#_part1.csproj|c:\\semester 2\\ppd\\latihan\\belajar c#\\belajar c#_part1\\belajar c#_part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF2540D-BCBE-4F2B-BFE1-A7667EB88EEC}|Belajar C#_part1\\Belajar C#_part1.csproj|solutionrelative:belajar c#_part1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Semester 2\\PPD\\latihan\\belajar C#\\Belajar C#_part1\\Belajar C#_part1\\Form1.cs",
+              "RelativeDocumentMoniker": "Belajar C#_part1\\Form1.cs",
+              "ToolTip": "C:\\Semester 2\\PPD\\latihan\\belajar C#\\Belajar C#_part1\\Belajar C#_part1\\Form1.cs",
+              "RelativeToolTip": "Belajar C#_part1\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAtwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:57:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Semester 2\\PPD\\latihan\\belajar C#\\Belajar C#_part1\\Belajar C#_part1\\Form1.cs",
+              "RelativeDocumentMoniker": "Belajar C#_part1\\Form1.cs",
+              "ToolTip": "C:\\Semester 2\\PPD\\latihan\\belajar C#\\Belajar C#_part1\\Belajar C#_part1\\Form1.cs [Design]",
+              "RelativeToolTip": "Belajar C#_part1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:54:50.127Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

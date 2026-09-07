@@ -1,0 +1,5 @@
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Preject\110_Muhammad Fatkhur Rohman_Mini Preject\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Preject.csproj.AssemblyReference.cache
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Preject\110_Muhammad Fatkhur Rohman_Mini Preject\obj\Debug\_110_Muhammad_Fatkhur_Rohman_Mini_Preject.Form1.resources
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Preject\110_Muhammad Fatkhur Rohman_Mini Preject\obj\Debug\_110_Muhammad_Fatkhur_Rohman_Mini_Preject.Properties.Resources.resources
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Preject\110_Muhammad Fatkhur Rohman_Mini Preject\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Preject.csproj.GenerateResource.cache
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Preject\110_Muhammad Fatkhur Rohman_Mini Preject\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Preject.csproj.CoreCompileInputs.cache

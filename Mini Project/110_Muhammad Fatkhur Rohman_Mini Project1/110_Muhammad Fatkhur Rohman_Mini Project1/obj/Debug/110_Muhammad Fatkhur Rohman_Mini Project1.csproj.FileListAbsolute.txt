@@ -1,0 +1,10 @@
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\bin\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.exe.config
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\bin\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.exe
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\bin\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.pdb
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.csproj.AssemblyReference.cache
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\_110_Muhammad_Fatkhur_Rohman_Mini_Project1.Form1.resources
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\_110_Muhammad_Fatkhur_Rohman_Mini_Project1.Properties.Resources.resources
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.csproj.GenerateResource.cache
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.csproj.CoreCompileInputs.cache
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.exe
+C:\Semester 2\PPD\Mini Project\110_Muhammad Fatkhur Rohman_Mini Project1\110_Muhammad Fatkhur Rohman_Mini Project1\obj\Debug\110_Muhammad Fatkhur Rohman_Mini Project1.pdb
